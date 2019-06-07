@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce4674bf-f514-43be-84ca-7c40f4db8d51" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/driver_config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/runner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="29" selection-start-line="29" selection-end-line="30" />
+              <folding>
+                <element signature="e#122#147#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/script.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1026">
+              <caret line="56" selection-start-line="56" selection-end-line="57" selection-end-column="11" />
+              <folding>
+                <element signature="e#118#163#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/home_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+              <folding>
+                <element signature="e#116#161#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/login_register_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="69" lean-forward="true" selection-start-line="12" selection-start-column="69" selection-end-line="12" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_case/test_login_register_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="78" column="27" lean-forward="true" selection-start-line="78" selection-start-column="27" selection-end-line="78" selection-end-column="27" />
+              <folding>
+                <element signature="e#91#150#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tmall.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="45" lean-forward="true" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>test</find>
+      <find>loader</find>
+      <find>com.mingbo.game:id/card_cover</find>
+      <find>com.mingbo.g</find>
+      <find>下载</find>
+      <find>icon</find>
+      <find>安利墙</find>
+      <find>安利墙icon</find>
+      <find>测试点击安利墙里面评论</find>
+      <find>down</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/testcase/test_home_page.py" />
+        <option value="$PROJECT_DIR$/__init__.py" />
+        <option value="$PROJECT_DIR$/src/comm/base_page.py" />
+        <option value="$PROJECT_DIR$/src/pages/search_page.py" />
+        <option value="$PROJECT_DIR$/src/common/gesture_manipulation.py" />
+        <option value="$PROJECT_DIR$/src/common/physical_buttons.py" />
+        <option value="$PROJECT_DIR$/src/common/base_page.py" />
+        <option value="$PROJECT_DIR$/test_case/test_home_page.py" />
+        <option value="$PROJECT_DIR$/src/pages/home_page.py" />
+        <option value="$PROJECT_DIR$/test_case/test_test.py" />
+        <option value="$PROJECT_DIR$/config/driver_config.py" />
+        <option value="$PROJECT_DIR$/src/pages/login_register_page.py" />
+        <option value="$PROJECT_DIR$/script.py" />
+        <option value="$PROJECT_DIR$/runner.py" />
+        <option value="$PROJECT_DIR$/test_case/test_login_register_page.py" />
+        <option value="$PROJECT_DIR$/tmall.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="105" />
+    <option name="width" value="1720" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fungoAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fungoAndroid" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fungoAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fungoAndroid" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.tmall">
+    <configuration name="runner" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="fungoAndroid" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="script" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="fungoAndroid" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tmall" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="fungoAndroid" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tmall.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_login_register_page.TestLogin.test_019_login_register_page" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="fungoAndroid" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login_register_page.TestLogin.test_019_login_register_page&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_login_register_page.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="fungoAndroid" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_case/test_login_register_page.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tmall" />
+        <item itemvalue="Python.runner" />
+        <item itemvalue="Python.script" />
+        <item itemvalue="Python tests.Unittests in test_login_register_page.py" />
+        <item itemvalue="Python tests.Unittests for test_login_register_page.TestLogin.test_019_login_register_page" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce4674bf-f514-43be-84ca-7c40f4db8d51" name="Default Changelist" comment="" />
+      <created>1557645592929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557645592929</updated>
+      <workItem from="1557645594079" duration="14777000" />
+      <workItem from="1557752107649" duration="10693000" />
+      <workItem from="1557842062660" duration="5680000" />
+      <workItem from="1557848107964" duration="4510000" />
+      <workItem from="1557930133133" duration="6534000" />
+      <workItem from="1558234918889" duration="19527000" />
+      <workItem from="1558452002704" duration="697000" />
+      <workItem from="1559822987292" duration="4145000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_login_register_page_py - 2019.05.19 at 15h 14m 10s.xml">
+      <configuration name="Unittests in test_login_register_page.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_login_register_page_TestLogin - 2019.05.19 at 15h 17m 08s.xml">
+      <configuration name="Unittests for test_login_register_page.TestLogin" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_login_register_page_TestLogin_test_019_login_register_page - 2019.05.19 at 15h 17m 43s.xml">
+      <configuration name="Unittests for test_login_register_page.TestLogin.test_019_login_register_page" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login_register_page_py - 2019.05.19 at 15h 19m 26s.xml">
+      <configuration name="Unittests in test_login_register_page.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login_register_page_py - 2019.05.19 at 15h 20m 56s.xml">
+      <configuration name="Unittests in test_login_register_page.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login_register_page_py - 2019.05.19 at 15h 23m 09s.xml">
+      <configuration name="Unittests in test_login_register_page.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_login_register_page_TestLogin_test_019_login_register_page - 2019.05.19 at 15h 25m 04s.xml">
+      <configuration name="Unittests for test_login_register_page.TestLogin.test_019_login_register_page" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_login_register_page_TestLogin_test_019_login_register_page - 2019.05.19 at 15h 26m 36s.xml">
+      <configuration name="Unittests for test_login_register_page.TestLogin.test_019_login_register_page" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login_register_page_py - 2019.05.19 at 15h 28m 30s.xml">
+      <configuration name="Unittests in test_login_register_page.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login_register_page_py - 2019.05.19 at 15h 30m 35s.xml">
+      <configuration name="Unittests in test_login_register_page.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="66563000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" x="641" y="65" width="262" height="693" id="Project" order="0" visible="true" weight="0.17057292" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32900432" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49934897" weight="0.40877914" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39917696" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50065106" side_tool="true" weight="0.40877914" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/fungoAndroid$search_page.coverage" NAME="search_page Coverage Results" MODIFIED="1557754115887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/pages" />
+    <SUITE FILE_PATH="coverage/fungoAndroid$Unittests_for_test_home_page_TestHomePage.coverage" NAME="Unittests for test_home_page.TestHomePage Coverage Results" MODIFIED="1558244834452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/fungoAndroid$Unittests_for_test_login_register_page_TestLoginRegisterPage.coverage" NAME="Unittests for test_login_register_page.TestLoginRegisterPage Coverage Results" MODIFIED="1558244629767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/fungoAndroid$Unittests_for_test_home_page_TestHomePage_test_home_page01.coverage" NAME="Unittests for test_home_page.TestHomePage.test_home_page01 Coverage Results" MODIFIED="1557650315617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/fungoAndroid$script.coverage" NAME="script Coverage Results" MODIFIED="1558251864862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fungoAndroid$Unittests_for_test_home_page_TestHomePage_test_01home_page.coverage" NAME="Unittests for test_home_page.TestHomePage.test_01home_page Coverage Results" MODIFIED="1557760999123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/fungoAndroid$tmall.coverage" NAME="tmall Coverage Results" MODIFIED="1559825968593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fungoAndroid$Unittests_for_test_test_TestLogin_test_016_login.coverage" NAME="Unittests for test_test.TestLogin.test_016_login Coverage Results" MODIFIED="1558246272924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/fungoAndroid$Unittests_for_test_home_page_TestHomePage_test_o8home_page.coverage" NAME="Unittests for test_home_page.TestHomePage.test_o8home_page Coverage Results" MODIFIED="1557844787081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/fungoAndroid$runner.coverage" NAME="runner Coverage Results" MODIFIED="1558253006791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fungoAndroid$Unittests_for_test_login_register_page_TestLogin_test_019_login_register_page.coverage" NAME="Unittests for test_login_register_page.TestLogin.test_019_login_register_page Coverage Results" MODIFIED="1558250767405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/fungoAndroid$Unittests_for_test_login_register_page_TestLoginRegisterPage_test_015login_register_page.coverage" NAME="Unittests for test_login_register_page.TestLoginRegisterPage.test_015login_register_page Coverage Results" MODIFIED="1558244804751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/fungoAndroid$Unittests_for_test_test_TestLogin.coverage" NAME="Unittests for test_test.TestLogin Coverage Results" MODIFIED="1558246381654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/fungoAndroid$home_page.coverage" NAME="home_page Coverage Results" MODIFIED="1557755044835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/pages" />
+    <SUITE FILE_PATH="coverage/fungoAndroid$Unittests_for_test_home_page_TestHomePage_test_06home_page.coverage" NAME="Unittests for test_home_page.TestHomePage.test_06home_page Coverage Results" MODIFIED="1557845669389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/fungoAndroid$Unittests_for_test_login_register_page_TestLogin_test_018_login_register_page.coverage" NAME="Unittests for test_login_register_page.TestLogin.test_018_login_register_page Coverage Results" MODIFIED="1558249846733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/fungoAndroid$Unittests_for_test_login_register_page_TestLogin_test_016_login_register_page.coverage" NAME="Unittests for test_login_register_page.TestLogin.test_016_login_register_page Coverage Results" MODIFIED="1558249913908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/fungoAndroid$Unittests_for_test_home_page_TestHomePage_test_03home_page.coverage" NAME="Unittests for test_home_page.TestHomePage.test_03home_page Coverage Results" MODIFIED="1557760947689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/fungoAndroid$Unittests_for_test_login_register_page_TestLogin.coverage" NAME="Unittests for test_login_register_page.TestLogin Coverage Results" MODIFIED="1558250125296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/fungoAndroid$Unittests_in_test_login_register_page_py.coverage" NAME="Unittests in test_login_register_page.py Coverage Results" MODIFIED="1558250922124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/fungoAndroid$Unittests_in_test_home_page_py.coverage" NAME="Unittests in test_home_page.py Coverage Results" MODIFIED="1557764020448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/report/201905132117Report.html" />
+    <entry file="file://$PROJECT_DIR$/report/201905132241Report.html" />
+    <entry file="file://D:/workTools/Python/Lib/site-packages/appium/webdriver/common/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/201905132334Report.html" />
+    <entry file="file://$PROJECT_DIR$/report/201905132349Report.html" />
+    <entry file="file://$PROJECT_DIR$/report/201905140000Report.html" />
+    <entry file="file://D:/workTools/Python/Lib/site-packages/appium/webdriver/extensions/action_helpers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="93" column="60" selection-start-line="93" selection-start-column="52" selection-end-line="93" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/201905142240Report.html" />
+    <entry file="file://$PROJECT_DIR$/report/201905142243Report.html" />
+    <entry file="file://$PROJECT_DIR$/report/201905142207Report.html" />
+    <entry file="file://$PROJECT_DIR$/report/201905142203Report.html" />
+    <entry file="file://$PROJECT_DIR$/report/201905142241Report.html" />
+    <entry file="file://$PROJECT_DIR$/report/201905142327Report.html" />
+    <entry file="file://D:/workTools/Python/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="241" column="34" lean-forward="true" selection-start-line="241" selection-start-column="34" selection-end-line="241" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/201905150054Report.html" />
+    <entry file="file://$PROJECT_DIR$/report/201905150055Report.html" />
+    <entry file="file://$PROJECT_DIR$/report/201905150059Report.html" />
+    <entry file="file://$PROJECT_DIR$/report/201905152320Report.html" />
+    <entry file="file://$PROJECT_DIR$/report/201905152249Report.html" />
+    <entry file="file://$PROJECT_DIR$/report/201905152342Report.html" />
+    <entry file="file://D:/workTools/Python/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="933" lean-forward="true" selection-start-line="933" selection-end-line="933" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/201905191114Report.html" />
+    <entry file="file://$PROJECT_DIR$/report/201905191135Report.html" />
+    <entry file="file://$PROJECT_DIR$/report/201905191151Report.html" />
+    <entry file="file://$PROJECT_DIR$/report/201905191158Report.html" />
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1558177109/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="138" column="4" selection-start-line="138" selection-start-column="4" selection-end-line="138" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1558177109/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="2572" column="8" selection-start-line="2572" selection-start-column="8" selection-end-line="2572" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/201905191218Report.html" />
+    <entry file="file://$PROJECT_DIR$/src/common/base_page.py" />
+    <entry file="file://$PROJECT_DIR$/report/201905191245Report.html" />
+    <entry file="file://$PROJECT_DIR$/report/201905191321Report.html" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="38" column="21" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="21" />
+          <folding>
+            <element signature="e#22#248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/201905191342Report.html" />
+    <entry file="file://$PROJECT_DIR$/src/common/physical_buttons.py" />
+    <entry file="file://$PROJECT_DIR$/src/common/gesture_manipulation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="46" lean-forward="true" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/test_home_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+          <folding>
+            <element signature="e#118#133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/201905191423Report.html" />
+    <entry file="file://$PROJECT_DIR$/report/201905191425Report.html" />
+    <entry file="file://$PROJECT_DIR$/report/201905191457Report.html" />
+    <entry file="file://$PROJECT_DIR$/report/201905191436Report.html" />
+    <entry file="file://$PROJECT_DIR$/report/201905191439Report.html" />
+    <entry file="file://$PROJECT_DIR$/report/201905191557Report.html" />
+    <entry file="file://$PROJECT_DIR$/report/201905191531Report.html" />
+    <entry file="file://$PROJECT_DIR$/report/201905191626Report.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="29" selection-start-line="29" selection-end-line="30" />
+          <folding>
+            <element signature="e#122#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="56" selection-start-line="56" selection-end-line="57" selection-end-column="11" />
+          <folding>
+            <element signature="e#118#163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/home_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding>
+            <element signature="e#116#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/login_register_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="69" lean-forward="true" selection-start-line="12" selection-start-column="69" selection-end-line="12" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/test_login_register_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="78" column="27" lean-forward="true" selection-start-line="78" selection-start-column="27" selection-end-line="78" selection-end-column="27" />
+          <folding>
+            <element signature="e#91#150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/driver_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="45" lean-forward="true" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
